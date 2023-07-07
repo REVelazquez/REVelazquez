@@ -15,4 +15,4 @@ Sobre mi:
 
 Conocimientos/knowledge:
 
--
+-[![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square)](https://es.wikipedia.org/wiki/HTML)
