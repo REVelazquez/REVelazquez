@@ -15,7 +15,8 @@ Sobre mi:
 
 Conocimientos/knowledge:
 
--[![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square)](https://es.wikipedia.org/wiki/HTML)  [![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)](https://developer.mozilla.org/docs/Web/CSS)  [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)](https://developer.mozilla.org/docs/Web/JavaScript)
+-Coding
+[![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square)](https://es.wikipedia.org/wiki/HTML)  [![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)](https://developer.mozilla.org/docs/Web/CSS)  [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)](https://developer.mozilla.org/docs/Web/JavaScript)
 
 Front-End
 -[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blueviolet?style=flat-square)](https://tailwindcss.com/)  [![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)](https://reactjs.org/)  [![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux)](https://redux.js.org/)
