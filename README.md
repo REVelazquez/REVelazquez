@@ -14,5 +14,14 @@ Sobre mi:
 - He completado exitosamente el programa de formación intensiva en desarrollo de software en el Bootcamp HENRY, donde he adquirido una amplia gama de habilidades tanto técnicas como sociales, al trabajar de manera colaborativa con otros profesionales del campo.
 
 Conocimientos/knowledge:
+-[![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square)](https://es.wikipedia.org/wiki/HTML)  [![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)](https://developer.mozilla.org/docs/Web/CSS)  [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)](https://developer.mozilla.org/docs/Web/JavaScript)
 
--[![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square)](https://es.wikipedia.org/wiki/HTML)
+-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blueviolet?style=flat-square)](https://tailwindcss.com/)  [![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)](https://reactjs.org/)  [![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux)](https://redux.js.org/)
+
+-[![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)](https://nodejs.org/) [![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)](https://expressjs.com/) [![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=sql)](https://en.wikipedia.org/wiki/SQL)
+[![npm](https://img.shields.io/badge/-npm-red?style=flat-square&logo=npm)](https://www.npmjs.com/)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/)
+
+
+
