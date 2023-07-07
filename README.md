@@ -1,14 +1,18 @@
 ### HELLO THERE!
+
+
 Im Rodrigo Velazquez, and here is a little introduction to my github.
 
-
-Soy Rodrigo Velazquez, y aqui hay una pequeña introduccion a mi github
 
 About me:
 - Im a fullstack developer, with background on Criminalistics.
 - I can addapt to various things. Such as programation or social.
 - I love to learn, so most time i dedicate to learn diferent things
 -I've completed the Bootcamp of Henry, where i learned a lot of things from diferent types, such as teamwork and collabs with other peoples in this field.
+
+
+Soy Rodrigo Velazquez, y aqui hay una pequeña introduccion a mi github
+
 
 Sobre mi:
 - Soy un fullstack developer con background en Criminalistica.
