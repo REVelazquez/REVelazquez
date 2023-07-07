@@ -1,16 +1,18 @@
-### Hi there 👋
+### HELLO THERE!
+Im Rodrigo Velazquez, welcome to my github. 
 
-<!--
-**REVelazquez/REVelazquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
+- Im a fullstack developer, with background on Criminalistics.
+- I can addapt to various things. Such as programation or social.
+- I love to learn, so most time i dedicate to learn diferent things
+-I've completed the Bootcamp of Henry, where i learned a lot of things from diferent types, such as teamwork and collabs with other peoples in this field.
 
-Here are some ideas to get you started:
+Sobre mi:
+- Soy un fullstack developer con background en Criminalistica.
+- Puedo adaptarme a varias cosas. Sea de ambito social o de programacion.
+- Me encanta aprender, asi que la mayoria del tiempo me dedico a aprender diferentes cosas
+- He completado exitosamente el programa de formación intensiva en desarrollo de software en el Bootcamp HENRY, donde he adquirido una amplia gama de habilidades tanto técnicas como sociales, al trabajar de manera colaborativa con otros profesionales del campo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Conocimientos/knowledge:
+
+-
