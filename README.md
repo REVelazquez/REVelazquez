@@ -38,5 +38,11 @@ Conocimientos/knowledge:
 [![Trello](https://img.shields.io/badge/-Trello-blue?style=flat-square&logo=trello)](https://trello.com/)
 
 
+Contact:
+LinkedIn:
+https://www.linkedin.com/in/rodrigo-velazquez-9bb156267/
+
+E-mail:
+rodrigo_velazquez_664@hotmail.com 
 
 
