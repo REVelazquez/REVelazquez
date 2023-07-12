@@ -39,6 +39,8 @@ Conocimientos/knowledge:
 
 
 Contact:
+
+
 LinkedIn:
 https://www.linkedin.com/in/rodrigo-velazquez-9bb156267/
 
