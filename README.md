@@ -1,4 +1,4 @@
-### HELLO THERE!
+### Hello there!
 
 
 Im Rodrigo Velazquez, and here is a little introduction to my github.
@@ -29,7 +29,7 @@ Conocimientos/knowledge:
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blueviolet?style=flat-square)](https://tailwindcss.com/)  [![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)](https://reactjs.org/)  [![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux)](https://redux.js.org/)
 
 -Back-end 
-[![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)](https://nodejs.org/) [![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)](https://expressjs.com/) [![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=sql)](https://en.wikipedia.org/wiki/SQL)
+[![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)](https://nodejs.org/) [![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)](https://expressjs.com/) [![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=sql)](https://en.wikipedia.org/wiki/SQL) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
 
 -Management inf and teamwork 
 [![npm](https://img.shields.io/badge/-npm-red?style=flat-square&logo=npm)](https://www.npmjs.com/)
